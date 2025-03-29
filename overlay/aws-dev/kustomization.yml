@@ -20,6 +20,9 @@ images:
 - name: istory
   newName: juneunchul2/istory
   newTag: "10"
+- name: juneunchul2/istory
+  newName: juneunchul2/istory
+  newTag: "11"
 
 generatorOptions:
   disableNameSuffixHash: true
