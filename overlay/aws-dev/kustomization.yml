@@ -22,7 +22,7 @@ images:
   newTag: "10"
 - name: juneunchul2/istory
   newName: juneunchul2/istory
-  newTag: "11"
+  newTag: "12"
 
 generatorOptions:
   disableNameSuffixHash: true
