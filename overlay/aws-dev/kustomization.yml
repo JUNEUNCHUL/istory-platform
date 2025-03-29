@@ -19,7 +19,7 @@ images:
   newTag: latest
 - name: istory
   newName: juneunchul2/istory
-  newTag: "9"
+  newTag: "10"
 
 generatorOptions:
   disableNameSuffixHash: true
