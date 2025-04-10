@@ -15,14 +15,8 @@ patches:
     name: istory-app-deploy
 
 images:
-- name: dangtong76/istory
-  newTag: latest
-- name: istory
-  newName: juneunchul2/istory
-  newTag: "10"
 - name: juneunchul2/istory
-  newName: juneunchul2/istory
-  newTag: "12"
+  newTag: latest
 
 generatorOptions:
   disableNameSuffixHash: true

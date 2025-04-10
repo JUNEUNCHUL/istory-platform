@@ -9,4 +9,3 @@ metadata:
     istory.io/infra: aws
     istory.io/env: dev
     istory.io/tier: app-lb
-    
