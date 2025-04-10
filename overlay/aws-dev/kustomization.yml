@@ -16,7 +16,8 @@ patches:
 
 images:
 - name: juneunchul2/istory
-  newTag: latest
+  newName: juneunchul2/istory
+  newTag: "19"
 
 generatorOptions:
   disableNameSuffixHash: true
